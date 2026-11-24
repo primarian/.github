@@ -1,9 +1,13 @@
-# Raymark Studio public GitHub profile
+# Primarian Studio — Public Profile
 
-This repository is intentionally narrow in scope. It owns only Raymark Studio's public GitHub organization profile and deliberately public, community-facing GitHub information.
+This repository maintains the public GitHub profile and approved public-facing resources for Primarian Studio.
 
-Public material here may describe Raymark Studio's general capabilities and high-level design and engineering philosophy. It must not contain private project information, internal architecture, infrastructure, implementation strategies, reusable private code, internal workflows, agent instructions, or organization-private standards.
+## Repository Structure
 
-Internal engineering and design standards are maintained separately in the private organization knowledge base. Product-specific requirements and implementation decisions belong in their respective repositories.
+- [`profile/README.md`](profile/README.md): Public organization profile.
+- `assets/`: Public branding and supporting visual resources, when applicable.
 
-The public profile is available at [`profile/README.md`](profile/README.md).
+## Organization
+
+- [GitHub Organization](https://github.com/primarian)
+- [Organization Profile](profile/README.md)
